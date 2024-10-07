@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\perso\\R2Boilerplate-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8A40CC-6D15-486D-B689-0A7A472DB89E}|ExamplePlugin\\ExamplePlugin.csproj|d:\\perso\\r2boilerplate-master\\exampleplugin\\exampleplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8A40CC-6D15-486D-B689-0A7A472DB89E}|ExamplePlugin\\ExamplePlugin.csproj|solutionrelative:exampleplugin\\exampleplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamplePlugin.cs",
+              "DocumentMoniker": "D:\\perso\\R2Boilerplate-master\\ExamplePlugin\\ExamplePlugin.cs",
+              "RelativeDocumentMoniker": "ExamplePlugin\\ExamplePlugin.cs",
+              "ToolTip": "D:\\perso\\R2Boilerplate-master\\ExamplePlugin\\ExamplePlugin.cs",
+              "RelativeToolTip": "ExamplePlugin\\ExamplePlugin.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwIYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:53:51.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
